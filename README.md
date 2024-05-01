@@ -2,7 +2,7 @@
 # I will write comments about input,output,problem, and  possible solutions before starting code
 
 ***Steps in Terminals***
- #1 pwd
+ #1 pwd \n
  #2 ls
  #3  cd Desktop
  #4 ls
