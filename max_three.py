@@ -1,7 +1,7 @@
-#input:
-#output:
-#problem:
-#solution:
+#input: 11,22,33
+#output: 33
+#problem: finding the max of three nums
+#solution: hint form internet using if/else
 def find_max(a,b,c):
     if a >= b and a >= c:
         return a
